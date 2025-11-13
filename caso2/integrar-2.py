@@ -60,7 +60,7 @@ def integral_racional_terminal():
     print(f"  + {Q:.4f} * [{parte2}] + C")
     print("-"*70)
 
-    print("\nFim do cálculo ✅")
+    print("\nFim do cálculo!!")
 
 if __name__ == "__main__":
     integral_racional_terminal()
