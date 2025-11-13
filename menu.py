@@ -1,3 +1,4 @@
+# Feito em grupo
 import os
 import platform
 

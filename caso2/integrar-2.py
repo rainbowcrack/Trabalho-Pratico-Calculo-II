@@ -1,3 +1,4 @@
+# Feito pela Izabel
 import math
 
 def integral_racional_terminal():
