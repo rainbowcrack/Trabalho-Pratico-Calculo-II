@@ -51,6 +51,9 @@ print(integ.decompor_e_integrar(verbose=False))
 ## Testes
 A pasta `testes/` contém entradas de teste para cada caso. Não há um runner de testes automatizado incluído — os testes atualmente são manuais / exemplos. É encorajado adicionar testes unitários (pytest/unittest) no futuro.
 
+## Vídeo do projeto
+https://youtu.be/lk4gmuvknKo
+
 ## Contribuição
 - Faça um fork e abra um pull request com descrições claras das mudanças.
 - Siga o padrão de docstrings e adicione testes para novas funcionalidades.
